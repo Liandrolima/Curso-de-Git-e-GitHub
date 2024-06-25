@@ -1,10 +1,10 @@
 # Exemplo
 Exemplo de repositório.
 
-Repositório criado para exemplificar o uso de Git e GitHub.
+Repositório criado para exemplificar o uso de *Git e GitHub*.
 
 Mundança, adaptação, vislumbrar.
 
-Alteração feita.
+Alteração feita por **Liandro Lima**
 
 
